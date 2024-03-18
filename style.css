@@ -10,7 +10,7 @@ html, body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(download.jpeg);
+    background-image: url(download.webp);
     background-size: cover;
 }
 h1{
